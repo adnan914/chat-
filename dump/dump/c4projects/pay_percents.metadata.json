@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"c4projects.pay_percents"}],"uuid":"a3c07e7c499b48d4b8231179f3cc3e26"}

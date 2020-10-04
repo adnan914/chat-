@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"c4projects.assignment_grads"}],"uuid":"397a0492e7b84996b6d1d58c92d56954"}

@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"c4projects.affiliat_approve_lists"}],"uuid":"9a890d600f95461e82341d7ca7261bcd"}

@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"c4projects.regfees"}],"uuid":"e8f07099facc4b98b8e179d814da3e7d"}

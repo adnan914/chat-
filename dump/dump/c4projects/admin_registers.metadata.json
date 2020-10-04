@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"c4projects.admin_registers"},{"v":{"$numberInt":"2"},"unique":true,"key":{"email":{"$numberInt":"1"}},"name":"email_1","ns":"c4projects.admin_registers","background":true}],"uuid":"dd850d1be64d4e47b22678b0f73187fb"}

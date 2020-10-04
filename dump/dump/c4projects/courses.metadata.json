@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"c4projects.courses"}],"uuid":"1a60a88cf6274b4192f3e937a4d2ef22"}
